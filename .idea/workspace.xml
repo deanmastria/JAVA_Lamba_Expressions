@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05f45d04-408d-48d2-a412-085090df6915" name="Changes" comment="Task 1: Simple Lambda Expressions">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CustomFunctionalInterfaces.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LambdaExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LambdaExpressions.java" afterDir="false" />
+    <list default="true" id="05f45d04-408d-48d2-a412-085090df6915" name="Changes" comment="Task 2: Lambda Expressions with Functional Interfaces">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BuiltInFunctionalInterfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BuiltInFunctionalInterfaces.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CustomFunctionalInterfaces">
+  <component name="RunManager" selected="Application.BuiltInFunctionalInterfaces">
+    <configuration name="BuiltInFunctionalInterfaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BuiltInFunctionalInterfaces" />
+      <module name="JAVA_Lamba_Expressions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FunctionalInterfaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.FunctionalInterfaces" />
       <module name="JAVA_Lamba_Expressions" />
@@ -90,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BuiltInFunctionalInterfaces" />
         <item itemvalue="Application.CustomFunctionalInterfaces" />
         <item itemvalue="Application.LambdaExpressions" />
       </list>
@@ -111,7 +123,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722867583779</updated>
-      <workItem from="1722867584922" duration="6180000" />
+      <workItem from="1722867584922" duration="6695000" />
     </task>
     <task id="LOCAL-00001" summary="Task 1: Simple Lambda Expressions">
       <option name="closed" value="true" />
@@ -121,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722873447167</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Task 2: Lambda Expressions with Functional Interfaces">
+      <option name="closed" value="true" />
+      <created>1722877664435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722877664435</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +149,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task 1: Simple Lambda Expressions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 1: Simple Lambda Expressions" />
+    <MESSAGE value="Task 2: Lambda Expressions with Functional Interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 2: Lambda Expressions with Functional Interfaces" />
   </component>
 </project>
