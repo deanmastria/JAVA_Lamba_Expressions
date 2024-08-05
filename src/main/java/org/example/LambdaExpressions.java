@@ -38,6 +38,7 @@ public class LambdaExpressions {
         double operate(double a, double b);
     }
 
+
     //Test Method for lambda expressions
     public static double testOperation(ArithmeticOperation operation, double a, double b) {
         return operation.operate(a, b);

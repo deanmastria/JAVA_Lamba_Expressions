@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05f45d04-408d-48d2-a412-085090df6915" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LambdaExpressions.java" afterDir="false" />
+    <list default="true" id="05f45d04-408d-48d2-a412-085090df6915" name="Changes" comment="Task 1: Simple Lambda Expressions">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CustomFunctionalInterfaces.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LambdaExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LambdaExpressions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CustomFunctionalInterfaces.executor": "Run",
     "Application.LambdaExpressions.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -62,7 +61,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CustomFunctionalInterfaces">
+    <configuration name="FunctionalInterfaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.FunctionalInterfaces" />
+      <module name="JAVA_Lamba_Expressions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LambdaExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.LambdaExpressions" />
       <module name="JAVA_Lamba_Expressions" />
@@ -78,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomFunctionalInterfaces" />
         <item itemvalue="Application.LambdaExpressions" />
       </list>
     </recent_temporary>
@@ -98,11 +111,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722867583779</updated>
-      <workItem from="1722867584922" duration="4321000" />
+      <workItem from="1722867584922" duration="6180000" />
     </task>
+    <task id="LOCAL-00001" summary="Task 1: Simple Lambda Expressions">
+      <option name="closed" value="true" />
+      <created>1722873447167</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722873447167</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task 1: Simple Lambda Expressions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 1: Simple Lambda Expressions" />
   </component>
 </project>
